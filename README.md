@@ -22,18 +22,4 @@
       <img src="images/logo.png" class="logoStyle"/>
   </div>
   <div class="myPhoto"><img src="images/satya.png"/></div>
-  <h1>Hi! I'm Satya</h1>
-  <p>I am
-    <span href="#" class="typewrite" data-period="2000" data-type='[ "Full Stack Developer.",
-   "Creative.", 
-   "Unicorn Developer.", 
-   "Architect." ]'>
-    <span class="wrap"></span>
-   </span>
-  </p>
-  <div class="row icons">
-    <div class="col-sm-1">
-        <a href="https://www.linkedin.com/in/satyagvns/" target="_blank">
-            <i class="fab fa-linkedin"></i>
-        </a>
-    </div>
+  <h1>Hi! I'm Matt</h1>
